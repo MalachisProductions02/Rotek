@@ -1,6 +1,7 @@
 ## ROTEK
 
 Mi primer README
+---
 ![foto](img.png)
 ---
 
